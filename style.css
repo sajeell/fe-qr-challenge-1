@@ -6,12 +6,13 @@
 }
 
 body {
+  min-height: 100vh;
   background-color: var(--light_gray);
   font-family: 'Nunito Sans', sans-serif;
   font-size: 15px;
-  display: grid;
-  place-items: center;
-  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
