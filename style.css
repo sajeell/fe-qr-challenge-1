@@ -44,9 +44,11 @@ body {
 
 #card-heading {
   font-weight: 700;
+  font-size: 1.2em;
 }
 
 #card-description {
   font-weight: 400;
+  font-size: 0.9em;
   color: var(--grayish_blue);
 }
